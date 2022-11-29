@@ -13,4 +13,4 @@
 * JS
 ## Как открыть/запустить
 
-Жмякни [тут](https://acridian789.github.io/5.11/) 
+Жмякни [тут](https://acridian789.github.io/6/) 
